@@ -1,0 +1,9 @@
+D:\visual studio\kalkulatorTugas\kalkulatorTugas\bin\Debug\kalkulatorTugas.exe.config
+D:\visual studio\kalkulatorTugas\kalkulatorTugas\bin\Debug\kalkulatorTugas.exe
+D:\visual studio\kalkulatorTugas\kalkulatorTugas\bin\Debug\kalkulatorTugas.pdb
+D:\visual studio\kalkulatorTugas\kalkulatorTugas\obj\Debug\kalkulatorTugas.csprojResolveAssemblyReference.cache
+D:\visual studio\kalkulatorTugas\kalkulatorTugas\obj\Debug\kalkulatorTugas.Form1.resources
+D:\visual studio\kalkulatorTugas\kalkulatorTugas\obj\Debug\kalkulatorTugas.Properties.Resources.resources
+D:\visual studio\kalkulatorTugas\kalkulatorTugas\obj\Debug\kalkulatorTugas.csproj.GenerateResource.Cache
+D:\visual studio\kalkulatorTugas\kalkulatorTugas\obj\Debug\kalkulatorTugas.exe
+D:\visual studio\kalkulatorTugas\kalkulatorTugas\obj\Debug\kalkulatorTugas.pdb
